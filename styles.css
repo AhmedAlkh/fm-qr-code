@@ -10,15 +10,19 @@ body {
     background-color: hsl(0, 0%, 100%);
     text-align: center;
     border-radius: 3%;
+    padding-bottom: 1%;
+    width: 18.75rem;
+    height: 25rem;
 }
 
 /* image container styling  */
 .img-container {
-    padding: 2%;
+    padding: 4%;
 }
 
 .img-container img {
     border-radius: 3%;
+    width: 15.625rem;
 }
 
 /* QR code text styles  */
@@ -26,12 +30,14 @@ body {
 .first-text-container {
     font-family: 'outfit', 'helvetica';
     font-weight: 700;
+    padding-top: 2%;
 }
 
 .second-text-container {
     font-family: 'outfit', 'helvetica';
     font-weight: 400;
     color: hsl(212, 45%, 89%);
+    padding-top: 4%;
 }
 
 /* Footer styling  */
