@@ -5,15 +5,22 @@ body {
     font-size: 0.938rem;
 }
 
-/* Styles for text under qr code  */
-
-.attribution {
-    font-size: 11px; 
-    text-align: center;
+/* main div styling  */
+.main-div {
+    background-color: hsl(0, 0%, 100%);
 }
 
-.attribution a {
-    color: hsl(228, 45%, 44%);
+/* QR code text styles  */
+
+.first-text-container {
+    font-family: 'outfit', 'helvetica';
+    font-weight: 700;
+}
+
+.second-text-container {
+    font-family: 'outfit', 'helvetica';
+    font-weight: 400;
+    color: hsl(212, 45%, 89%);
 }
 
 /* Footer styling  */
@@ -23,4 +30,13 @@ footer {
    bottom: 0;
    width: 100%;
    height: 30px;   /* Height of the footer */
+}
+
+.attribution {
+    font-size: 11px; 
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
 }
