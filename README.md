@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: []
+- Live Site URL: [fmqrcode1.netlify.app]
 
 ## My process
 
@@ -38,6 +38,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 - Flexbox
 - Google fonts
+- Deployed with Netlify
 
 ## Author
 
