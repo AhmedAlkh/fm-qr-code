@@ -40,8 +40,7 @@ body {
 
 .second-text-container {
     font-family: 'outfit', 'helvetica';
-    font-weight: 400;
-    color: hsl(212, 45%, 89%);
+    font-weight: 100;
     padding-top: 4%;
     padding-left: 8%;
     padding-right: 8%;
