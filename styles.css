@@ -8,6 +8,17 @@ body {
 /* main div styling  */
 .main-div {
     background-color: hsl(0, 0%, 100%);
+    text-align: center;
+    border-radius: 3%;
+}
+
+/* image container styling  */
+.img-container {
+    padding: 2%;
+}
+
+.img-container img {
+    border-radius: 3%;
 }
 
 /* QR code text styles  */
