@@ -3,6 +3,8 @@
 body {
     background-color: hsl(212, 45%, 89%);
     font-size: 0.938rem;
+    display: flex;
+    justify-content: center;
 }
 
 /* main div styling  */
@@ -11,13 +13,14 @@ body {
     text-align: center;
     border-radius: 3%;
     padding-bottom: 1%;
+    margin-top: 12.5rem;
     width: 18.75rem;
     height: 25rem;
 }
 
 /* image container styling  */
 .img-container {
-    padding: 4%;
+    padding: 4% 0 4% 0;
 }
 
 .img-container img {
@@ -31,6 +34,8 @@ body {
     font-family: 'outfit', 'helvetica';
     font-weight: 700;
     padding-top: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
 .second-text-container {
@@ -38,6 +43,8 @@ body {
     font-weight: 400;
     color: hsl(212, 45%, 89%);
     padding-top: 4%;
+    padding-left: 8%;
+    padding-right: 8%;
 }
 
 /* Footer styling  */
