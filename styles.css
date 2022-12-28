@@ -17,7 +17,7 @@ main {
     background-color: hsl(0, 0%, 100%);
     text-align: center;
     border-radius: 3%;
-    padding-bottom: 1%;
+    padding-bottom: 3%;
     margin-top: 12.5rem;
     width: 18.75rem;
     height: 25rem;
@@ -38,15 +38,13 @@ main {
 .first-text-container {
     font-family: 'outfit', 'helvetica';
     font-weight: 700;
-    padding-top: 2%;
     padding-left: 5%;
-    padding-right: 5%;
+    padding-right: 5%; 
 }
 
 .second-text-container {
     font-family: 'outfit', 'helvetica';
     font-weight: 100;
-    padding-top: 4%;
     padding-left: 8%;
     padding-right: 8%;
 }
