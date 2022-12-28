@@ -3,8 +3,9 @@
 body {
     background-color: hsl(212, 45%, 89%);
     font-size: 0.938rem;
-    display: flex;
-    justify-content: center;
+    min-height: 100vh;
+    display: grid;
+    place-content: center;
 }
 
 /* h1 hidden component for screen reader  */
@@ -18,7 +19,6 @@ main {
     text-align: center;
     border-radius: 3%;
     padding-bottom: 3%;
-    margin-top: 12.5rem;
     width: 18.75rem;
     height: 25rem;
 }
